@@ -1,6 +1,6 @@
 <?php
 
-namespace mamayadesu;
+namespace WonderlandPE/WonderChat;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;

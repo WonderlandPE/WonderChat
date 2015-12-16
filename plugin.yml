@@ -1,0 +1,5 @@
+name: WonderChat
+main: healthy/healthy
+api: 1.0.0
+version: 1.0.0
+description: This is Chat Config
